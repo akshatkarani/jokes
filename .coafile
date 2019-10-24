@@ -1,0 +1,5 @@
+[files]
+files = src/**.py
+bears = SpaceConsistencyBear, PEP8Bear
+use_spaces = True
+language = python
